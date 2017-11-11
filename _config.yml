@@ -1,5 +1,5 @@
-name: Sampa
-url: http://sampa.cs.washington.edu
+name: Spatial-Temporal Crowdsourcing Group
+url: http://lccpu3.cse.ust.hk
 
 exclude: [bibble, README.md, Makefile, Dockerfile]
 

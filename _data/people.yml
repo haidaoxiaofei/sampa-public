@@ -1,438 +1,107 @@
-# Faculty
-# Alphabetical order
-
-bodik:
-    display_name: "Ras Bodik"
-    webpage: "https://www.cs.washington.edu/people/faculty/bodik"
+profchen:
+    display_name: "CHEN, Lei"
+    webpage: "http://home.cse.ust.hk/~leichen/"
+    github: profx
     role: faculty
-    image: /img/people/bodik.jpg
+    image: /img/people/lei-chen.jpg
     bio: "Professor"
-
-luisceze:
-    display_name: "Luis Ceze"
-    webpage: "https://homes.cs.washington.edu/~luisceze/"
-    github: luisceze
-    role: faculty
-    image: /img/people/ceze.jpg
-    bio: "Professor"
-
-eggers:
-    display_name: "Susan Eggers"
-    webpage: "http://homes.cs.washington.edu/~eggers/"
-    role: retired
-    bio: "Emeritus Professor"
-
-djg:
-    display_name: "Dan Grossman"
-    webpage: "https://homes.cs.washington.edu/~djg/"
-    role: faculty
-    image: /img/people/djg.jpg
-    bio: "Professor"
-
-oskin:
-    display_name: "Mark Oskin"
-    webpage: "https://homes.cs.washington.edu/~oskin/"
-    role: faculty
-    image: /img/people/oskin.jpg
-    bio: "Associate Professor"
-
-karin:
-    display_name: "Karin Strauss"
-    webpage: "http://research.microsoft.com/en-us/people/kstrauss/"
-    role: faculty
-    image: /img/people/karin.jpg
-    bio: "Researcher, Microsoft Research<br>Affiliate Professor, UW CSE"
-
-mbt:
-    display_name: "Michael Taylor"
-    webpage: "https://www.cs.washington.edu/people/faculty/profmbt"
-    role: faculty
-    image: /img/people/mbt.jpg
-    bio: "Associate Professor"
-
-# Staff
-# Alphabetical order
-
-melody:
-    display_name: "Melody Kadenko"
-    webpage: "http://www.cs.washington.edu/homes/melody/"
-    role: staff
-    image: //homes.cs.washington.edu/~melody/index_files/image002.gif
-    bio: "Program Director"
-
 
 # Postdocs
 # Alphabetical order
-    
-armin:
-    display_name: "Armin Alaghi"
-    role: postdoc
-    webpage: "http://homes.cs.washington.edu/~armin/"
-    image: /img/people/armin.jpg
 
-shaolin:
-    display_name: "Shaolin Xie"
+pengcheng:
+    display_name: "CHENG, Peng"
+    webpage: "http://haidaoxiaofei.github.io"
+    github: haidaoxiaofei
     role: postdoc
-    webpage: "http://www.shawnless.net/Shawn/"
-    image: /img/people/shaolin.jpg
+    image: /img/people/peng-cheng.jpg
+    bio: "PostDoc"
+
+
 
 # Grads
+# ordered by Enrollment years
+
+czhao:
+    display_name: "CHEN, Zhao"
+    webpage: "https://github.com/chenzhao"
+    github: chenzhao
+    image: /img/people/zhao-chen.jpg
+    role: grad
+    bio: "Ph.D Student"
+
+robin:
+    display_name: "ZHENG, Libin (Robin)"
+    webpage: "https://github.com/libin4594"
+    role: grad
+    image: /img/people/libin.jpg
+    bio: "Ph.D Student"
+
+fiona:
+    display_name: "TU, Jiayang (Fiona)"
+    role: grad
+    image: /img/people/fiona.jpg
+    bio: "M.Phil Student"
+
+qiyu:
+    display_name: "LIU, Qiyu"
+    role: grad 
+    image: /img/people/nil.jpg
+    bio: "Ph.D Student"
+
+yuxiang:
+    display_name: "ZENG, Yuxiang"
+    role: grad 
+    image: /img/people/nil.jpg
+    bio: "Ph.D Student"
+
+
+    # Collaborators
 # Alphabetical order
 
-bornholt: 
-    display_name: "James Bornholt"
-    webpage: "https://homes.cs.washington.edu/~bornholt/"
-    role: grad
-    image: "//homes.cs.washington.edu/~bornholt/img/me_square.jpg"
+shahabi:
+    display_name: "Cyrus Shahabi"
+    role: collab
+    image: /img/people/shahabi.jpg
+    webpage: "http://infolab.usc.edu/Shahabi/"
+    bio: "Professor, USC"
 
-cowanmeg:
-    display_name: "Meghan Cowan"
-    role: grad
-    image: /img/people/meghan.jpg
-
-stdavids:
-    display_name: "Scott Davidson"
-    role: grad
-    image: /img/people/scott.jpg
-
-cdel:
-    display_name: "Carlo Del Mundo"
-    webpage: "http://homes.cs.washington.edu/~cdel/"
-    role: grad
-    image: /img/people/cdel.jpg
-    
-ashe2:
-    display_name: "Sam Elliott"
-    webpage: "http://lenary.co.uk/"
-    role: grad
-    image: "http://lenary.co.uk/sam-elliott-2014-thumb.jpg"
-
-eafurst:
-    display_name: "Emily Furst"
-    webpage: "https://homes.cs.washington.edu/~eafurst/"
-    role: grad
-    image: /img/people/eafurst.jpg
-
-sungkim:
-    display_name: "Sung Min Kim"
-    webpage: http://sungkim.net/
-    role: grad
-    image: /img/people/sung.jpg
-
-vlee2:
-    display_name: Vincent Lee
-    webpage: "http://homes.cs.washington.edu/~vlee2/"
-    role: grad
-    image: /img/people/lee.jpg
-
-mgliu:
-    display_name: Ming Liu
-    webpage: "https://homes.cs.washington.edu/~mgliu/"
-    role: grad
-    image: /img/people/mgliu.jpg
-
-liangluo:
-    display_name: Liang Luo
-    role: grad
-    image: /img/people/liangluo.jpg
-
-amrita: 
-    display_name: Amrita Mazumdar
-    webpage: "https://homes.cs.washington.edu/~amrita"
-    role: grad
-    image: "//homes.cs.washington.edu/~amrita/assets/img/amz.jpg"
-
-moreau:
-    display_name: "Thierry Moreau"
-    webpage: "http://homes.cs.washington.edu/~moreau/"
-    role: grad
-    image: /img/people/moreau.jpg
-
-kendall:
-    display_name: "Kendall Stewart"
-    role: grad
-    image: /img/people/kendall.jpg
-
-mwillsey:
-    display_name: "Max Willsey"
-    webpage: "http://mwillsey.com"
-    role: grad
-    image: /img/people/max.jpg
-
-vegaluis:
-    display_name: "Luis Vega"
-    webpage: "https://homes.cs.washington.edu/~vegaluis/"
-    role: grad
-    image: /img/people/luis.jpg
-
-wysem:
-    display_name: "Mark Wyse"
-    webpage: "https://homes.cs.washington.edu/~wysem/"
-    role: grad
-    image: /img/people/wysem.jpg
-
-eqy:
-    display_name: "Eddie Yan"
-    webpage: "https://linux.ucla.edu/~eqy/"
-    role: grad
-    image: /img/people/eddie.jpg
-
-billzorn:
-    display_name: "Bill Zorn"
-    webpage: "http://homes.cs.washington.edu/~billzorn/"
-    role: grad
-    image: /img/people/billzorn.jpg
-
-# Alums
-# The order is: PhD/postdoc by year; MS by year; BS by year
-
-jevdjic:
-    display_name: "Djordje Jevdjic"
-    role: "alum"
-    webpage: "http://parsa.epfl.ch/~jevdjic/"
-    bio: "Postdoc 2015&ndash;2017. Now at Microsoft Research."
-bholt:
-    display_name: "Brandon Holt"
-    webpage: "https://homes.cs.washington.edu/~bholt/"
-    role: "alum"
-    image: /img/people/bholt.jpg
-    bio: "Ph.D., 2016. Now at Apple."
-bdmyers:
-    display_name: "Brandon Myers" 
-    webpage: "https://homes.cs.washington.edu/~bdmyers/"
-    role: "alum"
-    image: /img/people/myers.jpg
-    bio: "Ph.D., 2016. Now faculty at Iowa."
-nelson:
-    display_name: "Jacob Nelson"
-    role: "alum"
-    bio: "Ph.D., 2014. Postdoc 2014&ndash;2016. Now at Microsoft Research."
-    image: /img/people/nelson.jpg
-asampson:
-    display_name: "Adrian Sampson"
-    webpage: "http://adriansampson.net/"
-    image: /img/people/adrian.jpg
-    github: sampsyo
-    role: alum
-    bio: "Ph.D., 2015. Now faculty at Cornell."
-ransford:
-    display_name: "Ben Ransford"
-    webpage: "http://ben.ransford.org/"
-    github: ransford
-    role: alum
-    bio: "Postdoc, 2013&ndash;2014."
-bpw:
-    display_name: "Benjamin Wood"
-    webpage: "https://homes.cs.washington.edu/~bpw/"
-    role: alum
-    bio: "Ph.D., 2014. Now faculty at Wellesley."
-tbergan:
-    display_name: "Tom Bergan"
-    webpage: "https://homes.cs.washington.edu/~tbergan/"
-    role: alum
-    bio: "Ph.D., 2014. Now at Google."
-miker:
-    display_name: "Michael Ringenburg"
-    webpage: "http://homes.cs.washington.edu/~miker/"
-    role: alum
-    bio: "Ph.D., 2014. Now at Cray."
-lucia:
-    display_name: "Brandon Lucia"
-    webpage: "http://brandonlucia.com/"
-    role: alum
-    bio: "Ph.D., 2013. Now faculty at CMU."
-hadi:
-    display_name: "Hadi Esmaeilzadeh"
-    webpage: "http://www.cc.gatech.edu/~hadi/"
-    role: alum
-    bio: "Ph.D., 2013. Now faculty at UC San Diego."
-devietti:
-    display_name: Joe Devietti
-    webpage: "https://www.cis.upenn.edu/~devietti/"
-    role: alum
-    bio: "Ph.D., 2012. Now faculty at UPenn."
-katelin:
-    display_name: "Katelin Bailey"
-    webpage: "https://homes.cs.washington.edu/~katelin/"
-    role: alum
-    bio: "M.S., 2015. Now at Microsoft."
-andreolb:
-    display_name: "Andre Baixo"
-    role: alum
-    bio: "M.S., 2015. Now at ARM."
-emackay:
-    display_name: Eric Mackay
-    webpage: "http://homes.cs.washington.edu/~emackay/"
-    role: alum
-    bio: "M.S., 2015. Now at Amazon."
-cody:
-    display_name: Cody Schroeder
-    role: alum
-    bio: "B.S. 2012, M.S. 2013. Now at Google."
-fortuna:
-    display_name: Emily Fortuna
-    role: alum
-    bio: "M.S., 2011. Now at Google."
-hunt:
-    display_name: "Nick Hunt"
-    role: alum
-    bio: "Now guiding at RMI."
-owen:
-    display_name: Owen Anderson
-    role: alum
-    bio: M.S., 2010. Now at Apple.
-bboston:
-    display_name: Brett Boston
-    webpage: "http://people.csail.mit.edu/boston/"
-    role: alum
-    bio: "B.S., 2015. Now at MIT."
-yorkw:
-    display_name: York Wei
-    role: alum
-    bio: "B.S., 2015. Now at VMWare."
-kristian:
-    display_name: Kristian Lieberg
-    role: alum
-    bio: "B.S., 2011. Now at Clean Power Research."
-angda:
-    display_name: Angda (Andy) Chen
-    role: alum
-    bio: B.S., 2008. Now at Amazon.
+xianglian:
+    display_name: "LIAN, Xiang"
+    role: collab
+    image: /img/people/xiang.jpg
+    webpage: "http://www.cs.kent.edu/~xlian/index.html"
+    bio: "Assistant Professor, Kent State University"
 
 
-# Undergrads
+# Alumni 
 # Alphabetical order
 
+yongxin:
+    display_name: "TONG, Yongxin"
+    role: alum
+    image: /img/people/yongxin.png
+    bio: "Ph.D., 2014. Now  Associate Professor at Beihang University"
 
-# Undergrad Alums
-# Alphabetical order
-
-austina2:
-    display_name: Austin Arechiga
-    role: ugrad-alum
-faugusto:
-    display_name: Felipe Augusto
-    role: ugrad-alum
-eblajev:
-    display_name: Evan Blajev
-    role: ugrad-alum
-schowdury:
-    display_name: Sandeep Chowdary
-    role: ugrad-alum
-wenjih:
-    display_name: Wenjie (Marissa) He
-    role: ugrad-alum
-phowe:
-    display_name: Patrick Howe
-    role: ugrad-alum
-umaymah:
-    display_name: Umaymah Khan
-    role: ugrad-alum
-jkotalik:
-    display_name: Justin Kotalik
-    role: ugrad-alum
-    webpage: https://www.linkedin.com/in/justin-kotalik-0489b597
-veilam:
-    display_name: Wei Lin
-    role: ugrad-alum
-tliu24:
-    display_name: Tianchi Liu
-    role: ugrad-alum
-luluyi:
-    display_name: Luyi Lu
-    role: ugrad-alum
-artem:
-    display_name: Artem Minyaylov
-    role: ugrad-alum
-wyatt:
-    display_name: Wyatt Muntean
-    role: ugrad-alum
-djnoboom:
-    display_name: Daniel Noteboom
-    role: ugrad-alum
-codyohl:
-    display_name: Cody Ohlsen
-    role: ugrad-alum
-    image: /img/people/codyohl.jpg
-    webpage: http://www.linkedin.com/in/codyohlsen
-pshfls:
-    display_name: Sui Pang (Beck)
-    role: ugrad-alum
-    webpage: http://www.linkedin.com/in/beckpang
-shichengfeng:
-    display_name: Chengfeng Shi
-    role: ugrad-alum
-zbsimon:
-    display_name: Zach Simon
-    role: ugrad-alum
-xinyu:
-    display_name: Xinyu Sui
-    role: ugrad-alum
-chenfs:
-    display_name: Chenfan (Frank) Sun
-    role: ugrad-alum
-    webpage: https://www.linkedin.com/in/chenfansun
-mandary:
-    display_name: Yufang Sun
-    role: ugrad-alum
-joshuay:
-    display_name: Joshua Yip
-    role: ugrad-alum
-
-# Collaborators
-# Alphabetical order
-
-preston:
-    display_name: Preston Briggs
-    role: collab
-
-akcheung:
-    display_name: "Alvin Cheung"
-    role: collab
-    webpage: "https://homes.cs.washington.edu/~akcheung/"
-    bio: "Assistant Professor, UW CSE"
-    image: /img/people/akcheung.png
-delorimier:
-     display_name: Michael Delorimier
-     role: collab
-     bio: "Oracle Labs"
-farhadi:
-     display_name: Ali Farhadi
-     role: collab
-     webpage: https://homes.cs.washington.edu/~ali/
-     bio: "Assistant Professor, UW CSE"
-shri:
-     display_name: Shri Hariharasubrahmanian
-     role: collab
-     bio: "Oracle Labs"
-sungpack:
-     display_name: Sungpack Hong
-     role: collab
-     bio: "Oracle Labs"
-skahan:
-    display_name: Simon Kahan
-    role: collab
-visvesh:
-    display_name: Visvesh Sathe
-    role: collab
-    webpage: http://www.ee.washington.edu/people/visvesh-sathe/
-    bio: "Assistant Professor, UW EE"
+chencao:
+    display_name: "CAO, Chen"
+    role: alum
+    image: /img/people/caleb.jpg
+    bio: "Ph.D., 2014. Now at Financial Data Technologies, Ltd"
 
 
-# No role (only for retired project photos)
+furui:
+    display_name: "FU, Rui"
+    role: alum
+    bio: "M.Phil., 2015."
 
-billhowe:
-    display_name: "Bill Howe"
-    webpage: "http://homes.cs.washington.edu/~billhowe/"
-    image: /img/people/billhowe.jpg
-    bio: "Affiliate Faculty and Associate Director of eScience Institute"
-drkp:
-    display_name: "Dan Ports"
-    webpage: "http://drkp.net/"
-    image: /img/people/drkp.jpg
-    bio: "Research Assistant Professor"
-iyzhang:
-    display_name: "Irene Zhang"
-    webpage: http://irenezhang.net/
-    image: /img/people/iyzhang.jpg
 
+leihao:
+    display_name: "XIA, Leihao"
+    role: alum
+    bio: "M.Phil., 2015."
+
+ziyuan:
+    display_name: "ZHAO, Ziyuan"
+    role: alum
+    bio: "M.Phil., 2015. Now at WeChat (Tencent)"

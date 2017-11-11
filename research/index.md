@@ -10,7 +10,7 @@ projects:
     summary: Determinism is inevitable.
 ---
 
-Our research crosses multiple layers of the system stack, from hardware to programming languages and applications. Our research has four main themes. The *concurrency* theme addresses challenges in writing, testing and debugging concurrent programs. The *approximate computing* theme explores accuracy trade-offs across the system stack for better energy efficiency and performance. The *emerging applications* theme focuses on building systems to better support new applications, from  mobile apps to graph analytics. The *emerging technologies* theme aims at taking advantage of new storage and compute technologies in building new systems. 
+Our research explores research related to spatial-temporal information and general crowdsourcing, from algorithms design to applications development. Our research has four main themes. The *task assignment* theme addresses challenges in batch-based matching of workers and tasks. The *latency control* theme explores task latencies in the crowdsourcing system. The *copying detection* theme focuses catching plagiarists in real world crowdsourcing platform. The *transportation mining* theme aims at taking advantage of huge data collected by morden online dial-a-ride systems to mining the trends of travelers. 
 
 ### Active Projects
 

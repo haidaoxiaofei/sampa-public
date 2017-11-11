@@ -20,7 +20,7 @@ _site/index.html: $(wildcard *.html) _includes/pubs.html _config.yml \
 clean:
 	$(RM) -r _site _includes/pubs.html
 
-CSEHOST := lccpu3.cse.ust.hk
+CSEHOST := lccpu3
 RSYNCARGS := --compress --recursive --checksum --itemize-changes \
 	--delete -e ssh --perms --chmod=ug+rw
 

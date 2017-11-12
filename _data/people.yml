@@ -46,13 +46,13 @@ fiona:
 qiyu:
     display_name: "LIU, Qiyu"
     role: grad 
-    image: /img/people/nil.jpg
+    image: /img/people/qiyu.jpg
     bio: "Ph.D Student"
 
 yuxiang:
     display_name: "ZENG, Yuxiang"
     role: grad 
-    image: /img/people/nil.jpg
+    image: /img/people/yuxiang.jpg
     bio: "Ph.D Student"
 
 
@@ -81,6 +81,7 @@ yongxin:
     display_name: "TONG, Yongxin"
     role: alum
     image: /img/people/yongxin.png
+    webpage: "http://www.cse.ust.hk/~yxtong/"
     bio: "Ph.D., 2014. Now  Associate Professor at Beihang University"
 
 chencao:

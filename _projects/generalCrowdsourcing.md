@@ -23,7 +23,7 @@ icons:
 
 <br>
 
-Although general crowdsourcing has been studied decades in the database community, there still some detailed topics that we cannot handle well, such as task latency control, plagiarists detection, and training data preparation. This theme focuses on these topics to refine a real platform running on WeChat platform.
+Although general crowdsourcing has been studied decades in the database community, there are still some detailed topics that we cannot handle well, such as task latency control, plagiarists detection, and training data preparation. This theme focuses on these topics to refine a real platform running on WeChat platform.
 
 </br>
 

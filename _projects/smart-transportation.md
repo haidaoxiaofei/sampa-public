@@ -22,7 +22,7 @@ icons:
 
 <br>
 
-With the revolution of IoT and mobile networks techniques, we can access huge amount of data from the daily transportation in big cities, such as Beijing, Shanghai and Shenzhen. However, currently, we have not deeply utilize the advance of the rich data and novel mining/learning methods to overcome the shortcomes of the traditional transportation that has low efficiency and is short-sighted. This research theme aims at taking advantage of huge data collected by morden online dial-a-ride systems and the novel minng/learning methods to discover and predict the trends of travelers such that the efficiency of the public transportation and user experience can be improved.
+With the revolution of IoT and mobile networks techniques, we can access a huge amount of data from the daily transportation in big cities, such as Beijing, Shanghai and Shenzhen. However, currently, we have not deeply utilize the advantage of the rich data and novel mining/learning methods to overcome the shortcomes of the traditional transportation that are low efficient and short-sighted. This research theme aims at taking advantage of huge data collected by morden online dial-a-ride systems and the novel mining/learning methods to discover and predict the trends of travelers such that the efficiency of the public transportation and user experience can be improved.
 </br>
 
 

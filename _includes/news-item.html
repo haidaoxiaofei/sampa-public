@@ -12,7 +12,7 @@
         {% if item.shortnews %}
             {{ item.content | markdownify }}
         {% else %}
-            <a href="{{ item.url }}">&raquo; {{ item.title }}</a>
+            <a href="{{ site.base }}/{{ item.url }}">&raquo; {{ item.title }}</a>
         {% endif %}
     </div>
 </li>

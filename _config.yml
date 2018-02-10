@@ -1,5 +1,5 @@
 name: Spatial-Temporal Crowdsourcing Group
-url: http://lccpu3.cse.ust.hk
+url: http://www.cse.ust.hk/stc
 
 exclude: [bibble, README.md, Makefile, Dockerfile]
 
@@ -29,7 +29,7 @@ roles:
 front_page_news: 4
 
 # Base pathname for links.
-base: ''
+base: 'http://www.cse.ust.hk/stc'
 
 collections:
   projects:

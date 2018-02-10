@@ -2,11 +2,9 @@
 layout: default
 title: Code
 ---
-We try to publish all of our code promptly when publishing new research.  If
-you don't find the code you're looking for here, contact the corresponding
-authors.
+We try to publish our code promptly. You are welcome to contribute to the projects and cooperate with us.
 
- * [gMission](http://grappa.io) &ndash; gMission: a general spatial crowdsourcing platform
+ * [gMission](http://gmission.github.io) &ndash; gMission: a general spatial crowdsourcing platform
  
 See the licensing terms within each project's codebase for the requisite legal
 details.

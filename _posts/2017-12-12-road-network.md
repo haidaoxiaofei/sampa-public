@@ -9,4 +9,4 @@ Recently, Robin conducted two studies about task assignment on Road Networks. Du
 
 Thanks for his selfless sharing. We can use that to help our future studies.
 
-For the tips about Robin’s discoveries, please check [the slides](/stc/papers/Tips.pdf) of his talk today.
+For the tips about Robin’s discoveries, please check [the slides]({{ site.base }}/papers/Tips.pdf) of his talk today.

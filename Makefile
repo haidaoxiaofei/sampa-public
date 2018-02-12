@@ -20,11 +20,11 @@ _site/index.html: $(wildcard *.html) _includes/pubs.html _config.yml \
 clean:
 	$(RM) -r _site _includes/pubs.html
 
-CSEHOST := lccpu3
+CSEHOST := pengcheng@ras2.cse.ust.hk
 RSYNCARGS := --compress --recursive --checksum --itemize-changes \
 	--delete -e ssh --perms --chmod=ug+rw
 
 rsync:
-	rsync $(RSYNCARGS) _site/ $(CSEHOST):/var/spatial-research-group-site
+	rsync $(RSYNCARGS) _site/ $(CSEHOST):/bigstore/stc
 
 deploy: clean all rsync

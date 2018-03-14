@@ -28,11 +28,25 @@ Although general crowdsourcing has been studied decades in the database communit
 </br>
 
 
+<img src="{{ site.base }}/img/crowdsourcingFrog.png" height="270" width="300"></br>
+The architecture of the FROG crowdsourcing system.</br>
 
-
+<a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI4OTE2ODAwNQ==&scene=110#wechat_redirect">
+<img src="{{ site.base }}/img/crowdsourcing_wechat.jpeg" height="147" width="300"></a></br>
+Search and add the official account of "[众测平台](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI4OTE2ODAwNQ==&scene=110#wechat_redirect)" on [WeChat](http://www.wechat.com/en/) to contribute on the micro-tasks and redeem your verified points to CNY through redpockets.
 
 ## Publications
+
+- **Realtime Traffic Speed Estimation with Sparse Crowdsourced Data**<br/>
+Liu Zheng, Lei Chen, and Yongxin Tong<br/>
+ICDE 2018
+
+- **Worker Recommendation for Crowdsourced Q&A Services: A Triple-Factor Aware Approach**<br/>
+Liu Zheng and Lei Chen<br/>
+VLDB 2018
 
 - **Tuning crowdsourced human computation**<br/>
   Chen Cao, Jiayang Tu, Zheng Liu, Lei Chen, and HV Jagadish<br/>
   ICDE 2017
+
+

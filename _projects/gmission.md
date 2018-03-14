@@ -31,15 +31,23 @@ Spatial crowdsourcing refers to sending a location-based request to workers acco
 
 ### Figures Related to Task Assignment in Spatial Crowdsourcing
 
-<img src="/img/ms_example_locations.png" height="200" width="600"></br>
+<img src="{{ site.base }}/img/ms_example_locations.png" height="200" width="600"></br>
 An Example of Multi-Skill Oriented Spatial Crowdsourcing.
 
-<img src="/img/assignment_example.png" height="270" width="300"></br>
+<img src="{{ site.base }}/img/assignment_example.png" height="270" width="300"></br>
 A Matching Example of Workers and Tasks.
 
 
 
 ## Publications
+
+- **Latency-oriented Task Completion via Spatial Crowdsourcing**<br/>
+Yuxiang Zeng, Yongxin Tong, Lei Chen, and Zimu Zhou<br/>
+ICDE 2018
+
+- **Multi-campaign Oriented Spatial Crowdsourcing (Short Paper)**<br/>
+Libin Zheng and Lei Chen<br/>
+ICDE 2018
 
 - **Prediction-based Task Assignment in Spatial Crowdsourcing**<br/>
   Peng Cheng, Xiang Lian, Lei Chen, Cyrus Shahabi
@@ -51,7 +59,7 @@ A Matching Example of Workers and Tasks.
   TKDE 2015
   
   
-- **Maximizing acceptance in rejection-aware spatial crowdsourcing**<br/>
+- **Maximizing Acceptance in Rejection-Aware Spatial Crowdsourcing**<br/>
   Libin Zheng, Lei Chen<br/>
   TKDE 2015
   

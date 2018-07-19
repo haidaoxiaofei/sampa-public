@@ -37,6 +37,18 @@ Search and add the official account of "[众测平台](https://mp.weixin.qq.com/
 
 ## Publications
 
+- **FROG: A Fast and Reliable Crowdsourcing Framework**<br/> 
+Peng Cheng, Xiang Lian, Xun Jian, and Lei Chen<br/>
+TKDE 2018
+
+- **DLTA: A Framework for Dynamic Crowdsourcing Classification Tasks**<br/> 
+Libin Zheng and Lei Chen<br/>
+TKDE 2018
+
+- **Effective Solution for Labeling Candidates with a Proper Ration for Efficient Crowdsourcing**<br/> 
+Zhao Chen, Peng Cheng, Chen Zhang, and Lei Chen<br/>
+DASFAA 2018
+
 - **Realtime Traffic Speed Estimation with Sparse Crowdsourced Data**<br/>
 Liu Zheng, Lei Chen, and Yongxin Tong<br/>
 ICDE 2018

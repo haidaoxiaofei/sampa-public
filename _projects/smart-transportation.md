@@ -31,6 +31,16 @@ With the revolution of IoT and mobile networks techniques, we can access a huge 
 
 ## Publications
 
+- **Order Dispatch in Price-aware Ridesharing**<br/>
+ Libin Zheng, Lei Chen, and Jieping Ye<br/>
+ VLDB 2018
+ 
+- **Realtime Traffic Speed Estimation with Sparse Crowdsourced Data**<br/>
+ Zheng Liu, Lei Chen, and Yongxin Tong <br/>
+ ICDE 2018
+
 - **Utility-Aware Ridesharing on Road Networks**<br/>
   Peng Cheng, Hao Xin, and Lei Chen<br/>
   SIGMOD 2017
+
+ 

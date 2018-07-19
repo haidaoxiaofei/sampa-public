@@ -41,6 +41,11 @@ A Matching Example of Workers and Tasks.
 
 ## Publications
 
+- **An Experimental Evaluation of Task Assignment in Spatial Crowdsourcing**<br/>
+Peng Cheng, Xun Jian and Lei Chen<br/>
+VLDB 2018
+
+
 - **Latency-oriented Task Completion via Spatial Crowdsourcing**<br/>
 Yuxiang Zeng, Yongxin Tong, Lei Chen, and Zimu Zhou<br/>
 ICDE 2018
@@ -50,8 +55,7 @@ Libin Zheng and Lei Chen<br/>
 ICDE 2018
 
 - **Prediction-based Task Assignment in Spatial Crowdsourcing**<br/>
-  Peng Cheng, Xiang Lian, Lei Chen, Cyrus Shahabi
-<br/>
+  Peng Cheng, Xiang Lian, Lei Chen, Cyrus Shahabi<br/>
   ICDE 2017
   
 - **Task Assignment on Multi-Skill Oriented Spatial Crowdsourcing**<br/>

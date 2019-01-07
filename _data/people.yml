@@ -1,6 +1,6 @@
 profchen:
     display_name: "CHEN, Lei"
-    webpage: "http://home.cse.ust.hk/~leichen/"
+    webpage: "https://home.cse.ust.hk/~leichen/"
     github: profx
     role: faculty
     image: /img/people/lei-chen.jpg
@@ -11,7 +11,7 @@ profchen:
 
 pengcheng:
     display_name: "CHENG, Peng"
-    webpage: "http://haidaoxiaofei.github.io"
+    webpage: "https://haidaoxiaofei.github.io"
     github: haidaoxiaofei
     role: postdoc
     image: /img/people/peng-cheng.jpg
@@ -32,16 +32,12 @@ czhao:
 
 robin:
     display_name: "ZHENG, Libin (Robin)"
-    webpage: "https://github.com/libin4594"
+    webpage: "http://www.cse.ust.hk/~lzhengab/"
     role: grad
     image: /img/people/libin.jpg
     bio: "Ph.D Student"
 
-fiona:
-    display_name: "TU, Jiayang (Fiona)"
-    role: grad
-    image: /img/people/fiona.jpg
-    bio: "M.Phil Student"
+
 
 qiyu:
     display_name: "LIU, Qiyu"
@@ -81,14 +77,14 @@ yongxin:
     display_name: "TONG, Yongxin"
     role: alum
     image: /img/people/yongxin.png
-    webpage: "http://www.cse.ust.hk/~yxtong/"
+    webpage: "https://www.cse.ust.hk/~yxtong/"
     bio: "Ph.D., 2014. Now  Associate Professor at Beihang University"
 
 chencao:
     display_name: "CAO, Chen"
     role: alum
     image: /img/people/caleb.jpg
-    bio: "Ph.D., 2014. Now at Financial Data Technologies, Ltd"
+    bio: "Ph.D., 2014."
 
 
 furui:
@@ -106,3 +102,9 @@ ziyuan:
     display_name: "ZHAO, Ziyuan"
     role: alum
     bio: "M.Phil., 2015. Now at WeChat (Tencent)"
+
+fiona:
+    display_name: "TU, Jiayang (Fiona)"
+    role: alum
+    image: /img/people/fiona.jpg
+    bio: "M.Phil., 2018. Now at Lenovo HK"

@@ -1,14 +1,17 @@
 <table class="table">
+{%- set ns = namespace() %}
+{%- set ns.prev_year = 1900 %}
+
 <tbody>
-	{%- set prev_year = 1900 %}
 	{%- for entry in entries %}
 	<tr>
 		<td>
 			<span class="date">
-				{% if entry.fields['year'] != prev_year %}
-				<big><strong>{{ entry.fields['year'] }}</strong></big><br />
+				
+				{% if not entry.fields['year'] == ns.prev_year %}
+				<big><strong>{{ entry.fields['year'] }}</strong></big><br/>
 				{% endif %}
-				{%- set prev_year = entry.fields['year'] %}
+				{%- set ns.prev_year = entry.fields['year'] %}
 				{{ entry.fields['month']|monthname }}
 			</span>
 		</td>
